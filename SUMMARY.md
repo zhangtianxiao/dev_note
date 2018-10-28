@@ -20,5 +20,7 @@
    * [13.) 利用PCA来简化数据](docs/13.利用PCA来简化数据.md)
    * [14.) 利用SVD简化数据](docs/14.利用SVD简化数据.md)
    * [15.) 大数据与MapReduce](docs/15.大数据与MapReduce.md)
-* 第五部分 项目实战(非课本内容)
-   * [16.) 推荐系统](docs/16.推荐系统.md)
+* Java
+	* 多线程
+       * [1.) 多线程解决了什么问题](docs/15.大数据与MapReduce.md)
+	   * [2.) 多线程的隐患](docs/15.大数据与MapReduce.md)
